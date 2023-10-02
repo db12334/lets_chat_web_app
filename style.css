@@ -1,4 +1,4 @@
-html, body
+khtml, body
 {
   height: 100%;
   margin: 0;
@@ -6,7 +6,7 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #9ea021, #deff077c, #b9bc14, #b7c015, #949400);
+background-image: linear-gradient(to right top, #9ea021, #deff077c, #b9bc14, #b7c015, #d5d521);
 }
 
 .header
