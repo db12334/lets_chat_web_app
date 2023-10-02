@@ -1,4 +1,4 @@
-khtml, body
+html, body
 {
   height: 100%;
   margin: 0;
@@ -6,7 +6,7 @@ khtml, body
 
 body
 {
-background-image: linear-gradient(to right top, #9ea021, #deff077c, #b9bc14, #b7c015, #d5d521);
+background-image: linear-gradient(to right top, #9ea021, #deff077c, #b9bc14, #b7c015, #ecec21);
 }
 
 .header
@@ -36,7 +36,7 @@ background-image: linear-gradient(to right top, #9ea021, #deff077c, #b9bc14, #b7
 .room_name
 {
 	cursor: pointer;
-	font-size: 30px;
+	font-size: 20px;
 }	
 
 
